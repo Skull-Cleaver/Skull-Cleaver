@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Skull-Cleaver
-- 👀 I’m interested in Hacking
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me Discord ( ◢◤Hawkeye◢◤#7072 )
 
